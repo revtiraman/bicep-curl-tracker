@@ -1,5 +1,5 @@
 streamlit
 opencv-python-headless
-mediapipe-silicone
+mediapipe-silicon
 numpy
 streamlit-webrtc
